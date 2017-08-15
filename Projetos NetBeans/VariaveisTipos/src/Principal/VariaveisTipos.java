@@ -10,8 +10,8 @@ package Principal;
 //      float (fracionário IEEE 754, 4 bytes) - precisão simples
 //      double (fracionário IEEE 754, 8 bytes) - precisão dupla
 //      char (caractere, 2 bytes)
-//      char (inteiro não sinalizado, 2 bytes)
-//      boolean (true ou false, 1 byte)
+//      char (inteiro não sinalizado, 2 bytes) 
+//      boolean (true ou false, 1 byte) 
 // Java é uma lingiagem fortemente tipada, isto significa que as variáveis 
 //    precisam ser definidas (declaradas) antes de seu uso.
 
