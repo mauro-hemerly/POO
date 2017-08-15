@@ -1,6 +1,6 @@
-# POO
-Este repositório GitHub tem como objetivo auxiliar as aulas de POO em Java, disponibilizando os projetos NetBeans utilizados nas aulas da disciplina, bem como avisos de interesse dos alunos.
+ï»¿# POO
+Este repositÃ³rio GitHub tem como objetivo auxiliar as aulas de POO em Java, disponibilizando os projetos NetBeans utilizados nas aulas da disciplina, bem como avisos de interesse dos alunos.
 
 Espero que Todos tenham um proveitoso semestre letivo!
 
-Prof. Mauro Hemerly (Hämmerli) Gazzani
+Prof. Mauro Hemerly (HÃ¤mmerli) Gazzani
