@@ -6,7 +6,7 @@ package Principal;
  */
 public class ClasseAplicacao {
    
-    public static void main(String[] args) {
+    public static void main(String[] args) {  // Aqui inicia a execução
         System.out.println("Boa Noite Caros Alunos dos Cursos de EC e SI...");
     }
     

@@ -9,7 +9,8 @@ import Classes.Aluno;     // ou: import Classes.*;
 
 // Classe Principal
 public class TesteAluno {   
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
+        
         // Instanciando objeto do tipo Aluno.
         // Neste caso, o aluno de nome 'Jose Carlos da Silva' e matrícula '190785'.
         Aluno a1 = new Aluno(); // a1: identificação do obejto
