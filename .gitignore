@@ -1,2 +1,4 @@
 # Arquivos .class serão ignorados na sincronização
 *.class
+/Projetos NetBeans/PrimeiroProjetoNB/nbproject/private/
+/Projetos NetBeans/PrimeiroProjetoNB/build/
