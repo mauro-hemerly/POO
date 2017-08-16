@@ -1,4 +1,4 @@
-package Principal;
+﻿package Principal;
 
 //Embora a linguagem Java seja orientada a objetos, nem tudo são objetos. 
 // Há definido tipos básicos chamados de tipos primitivos.
@@ -19,6 +19,7 @@ package Principal;
  *
  * @author Mauro Hemerly (Hämmerli) Gazzani <mauro.hemerly@gmail.com>
  */
+
 public class VariaveisTipos {
 
     public static void main(String[] args) {
