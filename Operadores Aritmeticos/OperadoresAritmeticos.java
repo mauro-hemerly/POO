@@ -22,6 +22,23 @@ public class OperadoresAritmeticos{
     System.out.println("Nota do Aluno3: " + notaAluno3);
     System.out.println("Nota do Aluno4: " + notaAluno4);
     System.out.println("Media final dos Alunos: " + mediaAluno);
+
+    int soma = 10;
+    int multiplicacao = 10;
+    int divisao = 10;
+    int restoDivisao = 5;
+
+    soma += 3;
+    multiplicacao *= 2;
+    divisao /= 2;
+    restoDivisao %= 2;
+
+    System.out.println("-- soma = " + soma);
+    System.out.println("-- multiplicacao = " + multiplicacao);
+    System.out.println("-- divisao = " + divisao);
+    System.out.println("-- restoDivisao = " + restoDivisao);
+
+
   }
 
 }
