@@ -1,6 +1,6 @@
 ﻿package Principal;
 
-//Embora a linguagem Java seja orientada a objetos, nem tudo são objetos. 
+//Embora a linguagem Java seja orientada a objetos, nem tudo é objeto. 
 // Há definido tipos básicos chamados de tipos primitivos.
 // Segue abaixo uma lista de todos os tipos primitivos em Java:
 //      byte (inteiro sinalizado, 1 byte)
