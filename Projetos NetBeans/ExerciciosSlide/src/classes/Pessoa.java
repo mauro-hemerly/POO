@@ -14,11 +14,6 @@ public class Pessoa {
     private String nome;
     private String cpf;
     
-    //Construtor Default
-    public Pessoa() {
-        nome = "Luis Alberto";
-        cpf = "456.345.798-00";
-    }
     
     public Pessoa(String nome, String cpf) {
         this.nome = nome;
@@ -43,4 +38,12 @@ public class Pessoa {
       public void setCpf(String novoCpf) {
          cpf = novoCpf;
      }
+
+    @Override
+    public String toString() {
+        return "Nome do Proprietário: " + nome +
+                "\nCPF do Proprietario: " + cpf;
+    }
+      
+      
 }

@@ -14,7 +14,7 @@ import classes.Pessoa;
  */
 public class UsaPessoa {
     public static void main(String[] x) {
-        Pessoa pedro = new Pessoa();
+        Pessoa pedro = new Pessoa("Pedro Costa","111.000.000-99");
         
         Pessoa pes2 = new Pessoa("Luis Inacio Lula","000.000.000-00");
        
